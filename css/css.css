@@ -1,0 +1,360 @@
+body {
+    background-image: url("../img/63541389-clear-studio-donkere-vector-zwarte-achtergrond-voor-productpresentatie.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#logogameworld{
+    font-size: 50px;
+    color: white;
+    position: relative;
+    left: 50px;
+    text-decoration: none;
+}
+
+.products-container{
+    width: 1200px;
+    margin: 120px auto;
+}
+
+.product-item
+{
+    width: 250px;
+    height: 350px;
+    margin: 10px;
+    float: left;
+    border: 5px solid black;
+    background: gray;
+}
+
+.product-item img
+{
+    width: 250px;
+    height: 150px;
+}
+
+#divlogo{
+    height: 20px;
+    margin-bottom: 39px;
+    position: relative;
+    left: 200px;
+}
+
+#navigation{
+    height: 80px;
+    background-color: gray;
+    width: 1100px;
+}
+
+#imgbo4{
+    height: 500px;
+    margin-bottom: 39px;
+    width: 1200px;
+}
+
+#divconsoles{
+    height: 150px;
+    margin-bottom: 39px;
+    
+}
+
+#divps4{
+    height: 150px;
+    width: 320px;
+    float: left;
+    margin-right: 66px;
+    background-color: blue;
+}
+
+#divxboxone{
+    height: 150px;
+    width: 320px;
+    float: left;
+    margin-right: 66px;
+    background-color: rgb(23, 143, 39);
+}
+
+#divpc{
+    height: 150px;
+    width: 320px;
+    float: left;
+    margin-right: 0px;
+    background-color: white;
+}
+
+#footerdiv {
+    height: 80px;
+    background-color: gray;
+    width: 1100px;
+}
+
+#WelcometoGAMEWORLD {
+    position: relative;
+    top: -500px;
+    left: 50px;
+    color: white;
+}
+
+#Themostcompletewebshop {
+    position: relative;
+    top: -500px;
+    left: 50px;
+    color: white;
+}
+
+#main-nav ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#main-nav li {
+    display: inline;
+}
+
+#main-nav li a {
+    display: inline-block;
+    width: 100px;
+    height: 56px;
+    background-color: gray;
+    text-align: center;
+    color: #fff;
+    padding-top: 24px;
+}
+
+#main-nav li a:hover {
+    background-color:royalblue;
+}
+
+.navconsolechoice{
+    text-decoration: none;
+}
+
+.mainnav{
+    text-decoration: none;
+}
+
+.textconsoles {
+    color: black;
+    position: relative;
+    left: 120px;
+    top: 20px;
+    font-size: 30px;
+}
+
+#navigationproductspage{
+    height: 80px;
+    background-color: gray;
+    width: 1100px;
+    position: relative;
+    left: 275px;
+}
+
+#orderbutton{
+    text-align: center;
+}
+
+#orderdiv{
+    width: 245px;
+    height: 65px;
+    border:  solid rgb(61, 53, 53) 3px;
+    background: brown;
+}
+
+#consolechoice{
+    height: 80px;
+    background-color: gray;
+    width: 1100px;
+    position: absolute;
+    left: 260px;
+    top: 170px;
+    
+}
+
+#productsprice{
+    text-align: center;
+}
+
+#second-nav ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+#second-nav li {
+    display: inline;
+}
+
+#second-nav li a {
+    display: inline-block;
+    width: 100px;
+    height: 56px;
+    background-color: gray;
+    text-align: center;
+    color: #fff;
+    padding-top: 24px;
+}
+
+#second-nav li a:hover {
+    background-color:royalblue;
+}
+
+#navigation-aboutus{
+    height: 80px;
+    background-color: gray;
+    width: 
+}
+
+#divimggameworldlogo{
+    float: left;
+}
+
+#divimgwinkelgameworld{
+    float: left;
+}
+
+#divmetinformatie{
+    background-color: gray;
+    height: 250px;
+    width: 1200px;
+    float: left;
+}
+
+#checkoutbutton{
+    float: right;
+}
+
+#divcontactpage{
+    background-color: gray;
+    height: 550px;
+    width: 1100px;
+    float: left;
+    margin-top: 10px;
+}
+
+#koptekstcontactpage{
+    text-align: center;
+    color: white;
+}
+
+#tekst1contactpage{
+    text-align: center;
+    color: white;
+}
+
+#tekst2contactpage{
+    text-align: center;
+    color: white;
+}
+
+#koptekstaboutuspage{
+    text-align: center;
+}
+
+#subkoptekstaboutuspage{
+    text-align: center;
+}
+
+#orderbutton{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    font-size: 12px;
+}
+
+#divcheckoutproduct{
+    background-color: gray;
+    width: 1100px;
+    float: left;
+    margin-top: 10px;
+}
+
+#tablecheckoutpage{
+    margin: auto;
+    height: 200px;
+    width: 1000px;
+}
+
+#imagethead{
+    width: 200px;
+    text-align: center;
+}
+
+#gamethead{
+    width: 200px;
+    
+}
+
+#descriptionthead{
+    width: 400px;
+}
+
+#pricethead{
+    width: 200px;
+}
+
+#imagetd{
+    text-align: center;
+    width: 250px;
+}
+
+#titletd{
+    text-align: center;
+    padding: 10px;
+    width: 150px;
+}
+
+#descriptiontd{
+    text-align: center;
+    padding: 10px;
+    width: 450px;
+}
+
+#pricetd{
+    text-align: center;
+    padding: 10px;
+    width: 150px;
+}
+
+.fotoafmetingen{
+    width: 140px;
+    height: 120px;
+}
+
+#divinputfields{
+    height: 300px;
+}
+
+#buttonbacktoproductspage{
+    height: 100px;
+    text-align: center;
+}
+
+#inputname{
+    width: 200px;
+    float: left;
+    margin-right: 66px;
+    margin-left: 300px;
+}
+
+#inputemail{
+    width: 200px;
+    float: left;
+    margin-right: 266px;
+    margin-left: 10px;
+}
+
+#textareacontactpage{
+    float: left;
+    height: 300px;
+    width: 500px;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+
+#divtekstcontactpage{
+}
+
+#year{
+    text-align: center;
+}
